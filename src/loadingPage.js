@@ -15,7 +15,7 @@ let loadingPage = () => {
     motto.id = ('motto');
 
     let demo = document.createElement('button');
-    demo.innerText = 'GET STARTED';
+    demo.innerText = 'GET STARTEDwebp';
     demo.id = ('demoBttn');
 
     title.appendChild(iconTitle);
@@ -24,6 +24,7 @@ let loadingPage = () => {
     container.appendChild(demo);
     content.appendChild(container);
     return {container};
+    
 };
 
 export{loadingPage};
