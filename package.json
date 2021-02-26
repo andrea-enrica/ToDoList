@@ -1,0 +1,26 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrea-enrica/ToDoList.git"
+  },
+  "author": "Andrea-Enrica Iordache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrea-enrica/ToDoList/issues"
+  },
+  "homepage": "https://github.com/andrea-enrica/ToDoList#readme",
+  "devDependencies": {
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "date-fns": "^2.17.0"
+  }
+}
